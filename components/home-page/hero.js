@@ -1,6 +1,6 @@
 import classes from './hero.module.css';
 import Image from 'next/image';
-import mlady from './mlady.jpg';
+import mlady from '../../public/images/site/mlady.jpg';
 
 function Hero() {
 	return (
